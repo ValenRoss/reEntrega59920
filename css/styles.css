@@ -409,7 +409,9 @@ h2{
     width: 50px;
 }
 
-.footGridH{
+/* Footerspace */
+
+/* .footGridH{
     display: grid;
     grid-template-columns: repeat(8,1fr);
     grid-template-rows: repeat(3,1fr);
@@ -424,7 +426,7 @@ h2{
 
 .footAdv ul li{
     width: 800px;
-}
+} */
 
 
 
