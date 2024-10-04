@@ -1,0 +1,622 @@
+00:26:57	Brian Gonzales Vidaurre:	profe para entrega de la próxima semana, entran los temas de esta clase?
+00:27:03	Juan Maldini:	Reacted to "yo estuve practicand..." with ❤️
+00:27:23	[Tutor] Martín Aguilar:	Replying to "profe para entrega d..."
+
+Si, Brian
+00:27:34	Juan Maldini:	Reacted to "Les paso la grabació..." with ⭐
+00:27:44	[Tutor] Martín Aguilar:	Replying to "profe para entrega d..."
+
+Se trata de estructurar 5 paginas webs con lo que vamos a ver hoy
+00:29:04	Brian Gonzales Vidaurre:	Reacted to "Se trata de estructu..." with 👍
+00:29:44	Facundo López Ordoqui:	si
+00:31:05	Federico Pauza:	Hay que aplicar mediaqueries, en 2 html, en vista desktop tablet y movil?
+00:31:53	Ignacio Platero:	😁
+00:32:11	[Tutor] Martín Aguilar:	Importante! 
+
+﻿﻿﻿HTML MAQUETADOS
+﻿﻿﻿que esos HIML ya tenga su CSS. (flexbox- grids - bootstrap) 
+Responsive, 2htmls sean full responsive. (desktop Tablet mobile)
+
+
+todo tiene que ser entregado a través de GitHub
+
+(CNO SE ACEPTAN SITIOS POR ZIP POR DRIVE. D)
+
+Que links tienen que presentar:
+
+https://github.com/cardenasmaximiliano/git-carpeta
+
+Acá  deje mi entrega
+Acá dejo el link del deploy
+
+https://cardenasmaximilfano.github.to/eit-carpeta/
+
+Revisar
+
+1- imagenes
+2- Los links de la barra de navegación
+3- El links css
+4-Revisar el responsive.
+00:32:30	Federico Pauza:	Reacted to "Importante! 
+
+﻿﻿﻿HTM..." with ❤️
+00:32:38	[Tutor] Martín Aguilar:	Si es responsive, se adapta tanto en desktop, tablet, como móvil.
+00:32:53	Daniela Garay Carrasco:	Reacted to "Importante! 
+
+﻿﻿﻿HTM..." with ❤️
+00:33:16	Julio Moreno:	Super claro
+00:33:33	Federico Pauza:	Replying to "Hay que aplicar medi..."
+
+Perfecto!
+00:35:01	[Tutor] Martín Aguilar:	Reacted to "{FD1E4B4D-4E5A-48E5-AA04-009AE6634172}.png" with 👍🏽
+00:35:20	Federico Pauza:	Si, yo ayer le comentaba que mi pagina en mi computadora se ve genial, pero lo paso a otra y se ve medio raro las imagenes
+00:35:22	Brian Gonzales Vidaurre:	profe en la clase de responsi dio 5 vistas, son suficientes esas vistas para que sea responsi la web?
+00:35:34	Federico Pauza:	https://fedepauza.github.io/Pauza-comision-59920/
+00:35:52	Federico Pauza:	claro
+00:36:10	Federico Pauza:	En mi compu se ven 2 flas de imágenes en el inicio
+00:36:28	[Tutor] Martín Aguilar:	Replying to "https://fedepauza.gi..."
+
+En los enlaces estas usando flex? Podes usar flex-wrap
+00:36:39	[Tutor] Martín Aguilar:	Replying to "https://fedepauza.gi..."
+
+De igual manera hoy vemos algo de magia con los frameworks
+00:37:44	[Tutor] Martín Aguilar:	Replying to "profe en la clase de..."
+
+El responsive puramente dicho, debe poder verse correctamente en todos los dispositivos. Dentro del curso les recomiendo que revisen los 5 y con esos es suficiente
+00:39:00	[Tutor] Martín Aguilar:	Esta pagina ara contrastar colores esta buena: https://colorhunt.co/ 
+
+La recomiendo
+00:39:12	Brian Gonzales Vidaurre:	Reacted to "Esta pagina ara cont..." with 👏
+00:39:22	Agustin Masso:	Reacted to "Esta pagina ara cont..." with 👏
+00:39:29	Federico Pauza:	Reacted to "Esta pagina ara cont..." with 👏
+00:40:58	Julio Moreno:	desde cero
+00:41:04	Facundo López Ordoqui:	Desde cero, si
+00:41:07	Yamil Moncau:	Nuevo sii
+00:41:11	Cesar Rubiano Moreno:	desde cero
+00:45:48	Julio Moreno:	profe que diferencia hay entre el list-style y el list-style-type ?
+00:46:09	Julio Moreno:	ah vale perfecto
+00:48:25	María Cecilia Lozano:	falso
+00:48:31	Julio Moreno:	que es parecido ?
+00:48:41	Sebastian Moran:	que no son clases
+00:48:49	Daniela Pignoni:	como si fuera
+00:49:38	Julio Moreno:	un hover ?
+00:49:39	Facundo López Ordoqui:	Si
+00:49:43	Agostina Lizzi:	mouse over?
+00:50:02	Sebastian Moran:	sip
+00:53:42	Daniela Pignoni:	si
+00:53:44	Julio Moreno:	super claro
+00:53:46	Federico Pauza:	Si
+00:58:10	Federico Pauza:	No seria .card divi mg?
+00:58:44	Daniela Pignoni:	no
+00:58:51	Facundo López Ordoqui:	No
+00:59:06	[Tutor] Martín Aguilar:	Replying to "No seria .card divi ..."
+
+Seria mas especifico todavía, sin embargo es un poco inteligente y lo toma igual. 
+
+Recomiendo como decís, que se realice de esa manera
+00:59:27	Federico Pauza:	Reacted to "Seria mas especifico..." with 👍
+00:59:51	[Tutor] Martín Aguilar:	Replying to "No seria .card divi ..."
+
+No llegue a ver si el div tiene la clase img igual. Tene en cuenta eso
+01:00:03	Facundo López Ordoqui:	Si
+01:00:03	Daniela Pignoni:	si
+01:00:11	Julio Moreno:	super claro
+01:00:18	Facundo Acevedo:	se pueden usar varios hover entonces?
+01:00:32	[Tutor] Martín Aguilar:	Replying to "se pueden usar vario..."
+
+En la misma etiqueta? No tiene sentido
+01:00:38	[Tutor] Martín Aguilar:	Replying to "se pueden usar vario..."
+
+En diversas etiquetas si
+01:00:48	Facundo Acevedo:	excelente
+01:00:52	Facundo Acevedo:	gracias!
+01:00:54	Julio Moreno:	en cuanto a orden el hover debería ir después de nuestro código de css o no importa el orden ?
+01:02:36	[Tutor] Martín Aguilar:	Replying to "en cuanto a orden el..."
+
+Es mejor y recomendable respetar la cascada.
+01:02:50	Julio Moreno:	Reacted to "Es mejor y recomenda..." with 👍
+01:03:09	Julio Moreno:	Replying to "en cuanto a orden el..."
+
+@[Tutor] Martín Aguilar entonces es preferible que las pseudoclases siempre queden al final de todo el código css ?
+01:03:23	Facundo López Ordoqui:	Si
+01:03:28	Federico Pauza:	Si perfecto
+01:04:49	Federico Pauza:	id
+01:09:16	Sebastian Moran:	si
+01:09:18	Julio Moreno:	profe, y si en ese caso estuviera en row-reverse por ejemplo, seguirá tomando el primero ?
+01:09:19	Federico Pauza:	Sisi
+01:09:20	Brian Gonzales Vidaurre:	se aplica a  los hijos o al padre el nth?
+01:09:23	Mariano Miranovich:	si
+01:10:12	[Tutor] Martín Aguilar:	Replying to "profe, y si en ese c..."
+
+Buena preguntar, creo que es lo mismo a la inversa. 
+
+Ahora pruebo y te digo
+01:10:27	Julio Moreno:	Reacted to "Buena preguntar, cre..." with 👍
+01:10:27	Federico Pauza:	h3
+01:10:49	[Tutor] Martín Aguilar:	Están atentos! 🙌🏽
+01:12:01	Daniela Pignoni:	si
+01:12:01	Facundo López Ordoqui:	Si
+01:12:02	Federico Pauza:	Replying to "Están atentos! 🙌🏽"
+
+😎
+01:13:15	Julio Moreno:	vale perfecto
+01:13:23	[Tutor] Martín Aguilar:	Reacted to "vale perfecto" with 💪🏽
+01:13:24	Federico Pauza:	impecable
+01:14:05	Federico Pauza:	Si algo
+01:14:11	Julio Moreno:	mas o menos
+01:18:17	Daniela Pignoni:	si
+01:19:19	[Tutor] Martín Aguilar:	Acá nos damos cuenta de la importancia que tiene elegir el tamaño de la imagen, mas allá de que la podamos modificar con estilos. 😅
+01:19:30	Daniela Pignoni:	Reacted to "Acá nos damos cuenta..." with 👍
+01:21:21	Daniela Pignoni:	si
+01:24:54	Mariano Miranovich:	quen
+01:24:59	Mariano Miranovich:	que hace e label?
+01:26:03	Mariano Miranovich:	aa ok
+01:26:04	Mariano Miranovich:	sisi
+01:26:37	[Tutor] Martín Aguilar:	Mejora la accesibilidad,  y la asociación 
+
+
+<label>
+  Nombre:
+  <input type="text" name="nombre">
+</label>
+
+
+—— 
+
+<label for="nombre">Nombre:</label>
+<input type="text" id="nombre" name="nombre">
+01:27:09	Brian Gonzales Vidaurre:	name para que sirve?
+01:27:25	Brian Gonzales Vidaurre:	bien
+01:28:01	[Tutor] Martín Aguilar:	Con otros lenguajes puede que sea necesario
+01:31:14	Julio Moreno:	vale
+01:31:17	Brian Gonzales Vidaurre:	cuando hizo focus por que era color azul y no negro por defecto ?
+01:31:17	Ana Guerreiro:	Dale!
+01:31:32	Mariano Miranovich:	no todo perfecto
+01:31:32	Dario Sosa:	Todo ok por mi lado
+01:33:32	Profesor Coderhouse:	document.getElementById( id).src = ruta nueva imagen
+01:34:03	[Tutor] Martín Aguilar:	Es muy buena pregunta, se puede con las pseudoclases, sin embargo es mas fácil con Javascript
+01:34:11	Brian Gonzales Vidaurre:	gracias
+01:34:20	Juan Maldini:	Reacted to "Es muy buena pregunt..." with ⭐
+01:34:32	Yamil Moncau:	Profe podesdejarkos codigos
+01:34:35	Juan Maldini:	a recargar el mate
+01:36:22	[Tutor] Martín Aguilar:	Replying to "Es muy buena pregunt..."
+
+Yo hice el menú hamburguesa con pseudoclases para este curso, y me quedo un código gigante jaja
+
+Sin embargo suma mucho punto, te animo a probar hacer el dark mode con las pseudoclases.
+01:36:43	[Tutor] Martín Aguilar:	Reacted to "a recargar el mate" with 🙌🏽
+01:44:44	Federico Pauza:	Esas son todas las que existen o hay mas?
+01:44:57	Federico Pauza:	Ok ok
+01:45:31	Profesor Coderhouse:	https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+01:45:44	Federico Pauza:	Reacted to "https://developer.mo..." with ❤️
+01:46:09	[Tutor] Martín Aguilar:	Pseudoclases
+01:46:16	[Tutor] Martín Aguilar:	Reacted to "https://developer.mo..." with 💪🏽
+01:46:55	Julio Moreno:	Reacted to "https://developer.mo..." with 👍
+01:47:13	Brian Gonzales Vidaurre:	Reacted to "https://developer.mo..." with ❤️
+01:49:43	Julio Moreno:	si
+01:51:50	Yamil Moncau:	hay sitios que todo el párrafo no te permite selecionarlo para copiarlo y pegarlo esta hecho todo de esta manera?
+01:53:37	Brian Gonzales Vidaurre:	content se usa solo para texto ?
+01:54:15	Brian Gonzales Vidaurre:	si
+01:54:47	Julio Moreno:	eso puede servir por ejemplo para un menú desplegable ?
+01:55:58	Facundo López Ordoqui:	No
+01:57:45	Daniela Pignoni:	si
+01:58:34	Julio Moreno:	si
+01:59:38	[Tutor] Martín Aguilar:	Replying to "hay sitios que todo ..."
+
+En esos casos puede ser que se superponga otra etiqueta encima que no te permita copiarlo. Me paso una vez cuando utilice componentes de shadcn
+02:00:46	[Tutor] Martín Aguilar:	Replying to "eso puede servir por..."
+
+El menú desplegable consta de afectar con una etiqueta a otra utilizando esto que vimos e indicarle display: none; a quien corresponda ocultarse.
+02:01:14	[Tutor] Martín Aguilar:	Replying to "eso puede servir por..."
+
+Es una manera
+02:04:17	Julio Moreno:	igual es un kilombo hahaha
+02:04:28	Valentino Rossi:	mal
+02:04:39	Valentino Rossi:	aguante camel
+02:04:56	Valentino Rossi:	🐫
+02:05:24	Julio Moreno:	Reacted to "aguante camel" with 🤣
+02:05:35	Julio Moreno:	Replying to "aguante camel"
+
+🤘
+02:07:47	Brian Gonzales Vidaurre:	Replying to "eso puede servir por..."
+
+@[Tutor] Martín Aguilar  se puede aplicar un checkbox para cambiar propiedades del menú, para desaparecer los elementos y que este visible?
+02:07:58	[Tutor] Martín Aguilar:	Replying to "eso puede servir por..."
+
+Aproveche el break para crear el modo dark, si quieren revisarlo les dejo el link. 
+
+Y a quien se anime implementarlo en su proyecto, tenga en cuenta que debe tener en cuenta todos los elementos.
+
+CodePen
+02:08:03	[Tutor] Martín Aguilar:	Reacted to "@[Tutor] Martín Agui..." with 👍🏽
+02:08:17	Julio Moreno:	Reacted to "@[Tutor] Martín Agui..." with 👍
+02:08:23	Julio Moreno:	Reacted to "Aproveche el break p..." with 👍
+02:08:24	Sebastian Moran:	ok
+02:08:25	Yamil Moncau:	dalee
+02:08:28	Dario Sosa:	Perfecto
+02:08:32	Yamil Moncau:	profe podes dejar
+02:08:44	Juan Maldini:	Reacted to "Aproveche el break p..." with ⭐
+02:08:45	Yamil Moncau:	el código HTML y css en pantalla dividada
+02:08:53	Yamil Moncau:	ah okey gracias
+02:09:35	[Tutor] Martín Aguilar:	Disculpen, tengo baja señal. Ya lo acomodo
+02:10:47	Julio Moreno:	todo ok
+02:10:55	Ana Guerreiro:	dle!
+02:10:55	Yamil Moncau:	dale perfecto
+02:53:46	[Tutor] Martín Aguilar:	Reacted to "si!!" with ✨
+02:54:19	Daniela Pignoni:	no jajaj
+02:54:22	Federico Pauza:	nop
+02:54:26	Julio Moreno:	mas o menos pero no recuerdo mucho
+02:54:30	Brian Gonzales Vidaurre:	conjunto de librerias
+02:54:56	Profesor Coderhouse:	https://colorhunt.co
+02:55:10	[Tutor] Martín Aguilar:	Reacted to "https://colorhunt.co" with 😄
+02:55:18	Julio Moreno:	Google Font ?
+02:55:41	[Tutor] Martín Aguilar:	https://animate.style/
+02:55:42	Federico Pauza:	unsplash
+02:58:14	Profesor Coderhouse:	https://bulma.io
+02:58:20	Brian Gonzales Vidaurre:	jaja
+02:58:20	[Tutor] Martín Aguilar:	https://mui.com/
+03:00:40	[Tutor] Martín Aguilar:	Tene en cuenta el peso del sitio
+03:01:10	Profesor Coderhouse:	https://animejs.com
+03:01:44	Yamil Moncau:	son todas gratuitas?
+03:02:28	[Tutor] Martín Aguilar:	Replying to "son todas gratuitas?"
+
+Si, solo copias el script y tenes los estilos para utilizar
+03:02:41	Yamil Moncau:	Replying to "son todas gratuitas?"
+
+graciass
+03:03:11	[Tutor] Martín Aguilar:	https://materializecss.com/
+03:03:45	Profesor Coderhouse:	https://tailwindcss.com
+03:03:53	[Tutor] Martín Aguilar:	Reacted to "https://tailwindcss...." with 💯
+03:04:24	[Tutor] Martín Aguilar:	Ademas es el mas utilizado con next.js
+03:05:48	Julio Moreno:	si Midu habla mucho de el
+03:05:52	[Tutor] Martín Aguilar:	Reacted to "si Midu habla mucho ..." with 😄
+03:06:26	[Tutor] Martín Aguilar:	Replying to "si Midu habla mucho ..."
+
+Si, cuando se trata de javascript. Siempre esta MiduDev
+03:06:47	Profesor Coderhouse:	https://getbootstrap.com
+03:08:01	Yamil Moncau:	reemplaza a win y xin?
+03:08:26	Yamil Moncau:	si wix
+03:08:47	[Tutor] Martín Aguilar:	Es un Saas
+03:09:19	[Tutor] Martín Aguilar:	Antes se prefería este framework hoy creo que esta mas presente una Saas
+03:09:54	[Tutor] Martín Aguilar:	software as a service (saas)
+03:13:08	[Tutor] Martín Aguilar:	Corran si se cae
+03:13:12	[Tutor] Martín Aguilar:	Jajaja
+03:13:32	[Tutor] Martín Aguilar:	Si pasa, se viene el mundo abajo
+03:13:38	[Tutor] Martín Aguilar:	Prácticamente
+03:15:54	Federico Pauza:	14000
+03:15:58	Julio Moreno:	si mas o menos haha
+03:15:59	[Tutor] Martín Aguilar:	Reacted to "14000" with 💪🏽
+03:16:08	[Tutor] Martín Aguilar:	Replying to "14000"
+
+Espectacular jaja
+03:16:17	[Tutor] Martín Aguilar:	Reacted to "si mas o menos haha" with 😄
+03:16:18	Monica Forrisi:	9999 !
+03:16:30	[Tutor] Martín Aguilar:	Reacted to "9999 !" with ✨
+03:18:32	Julio Moreno:	cambio
+03:19:35	Facundo López Ordoqui:	No
+03:19:36	Yamil Moncau:	sii
+03:19:38	Federico Pauza:	si
+03:19:42	Dario Sosa:	Si
+03:19:45	Matias Gonzalez:	sip
+03:20:31	Yamil Moncau:	iria dentro del footer oluego del cierre footer?
+03:20:59	[Tutor] Martín Aguilar:	Replying to "iria dentro del foot..."
+
+Va debajo del footer, no se visualiza en la web
+03:21:10	Yamil Moncau:	Replying to "iria dentro del foot..."
+
+graciaas
+03:21:31	[Tutor] Martín Aguilar:	Replying to "iria dentro del foot..."
+
+Ahora lo vemos bien, seguro estructura el footer también
+03:21:50	Mariano Miranovich:	para usar boostrap siempre hay que agregar el script también?
+03:21:59	Mariano Miranovich:	ok
+03:22:20	Facundo López Ordoqui:	Si si
+03:22:21	Julio Moreno:	si super claro
+03:23:32	[Tutor] Martín Aguilar:	Yo recomiendo el CDN, se ahorran el peso de los archivos.
+03:25:46	Julio Moreno:	🤯🤯
+03:25:47	Yamil Moncau:	donde ves esas clases?
+03:25:52	Yamil Moncau:	ya creadas
+03:25:55	Mariano Miranovich:	es buena practica usar boostrap?
+03:25:58	Brian Gonzales Vidaurre:	se puede hacer un carrusel con css o se usa java script?sin aplicar bootstrap
+03:26:05	[Tutor] Martín Aguilar:	https://getbootstrap.com/docs/5.3/getting-started/introduction/
+03:26:21	Brian Gonzales Vidaurre:	gracias
+03:26:44	[Tutor] Martín Aguilar:	Para mi criterio, no es escalable un proyecto con este framework
+03:27:02	Brian Gonzales Vidaurre:	claro
+03:27:08	Mariano Miranovich:	sisi se entiende
+03:27:18	[Tutor] Martín Aguilar:	Replying to "se puede hacer un ca..."
+
+Detrás de bootstrap también esta javascript
+03:27:40	Facundo López Ordoqui:	Si si
+03:30:11	Julio Moreno:	entonces básicamente seria ocupar las clases que nos dice Bootstrap y escribirlo en nuestro código para que se apliquen esos estilos ?
+03:30:43	[Tutor] Martín Aguilar:	Replying to "entonces básicamente..."
+
+Claro, es entender la sintaxis que utiliza para cada estilo
+03:30:53	Julio Moreno:	Replying to "entonces básicamente..."
+
+perfecto
+03:31:23	[Tutor] Martín Aguilar:	Replying to "entonces básicamente..."
+
+Lo mismo es con el resto de frameworks, solo que es otra sintaxis.
+03:31:48	Brian Gonzales Vidaurre:	son media queries? ya aplicadas
+03:32:04	[Tutor] Martín Aguilar:	Replying to "son media queries? y..."
+
+Si, son estilos detrás de cada clase que utilizas
+03:32:17	Mariano Miranovich:	porq no hay alguno que ocupe 1400px?
+03:32:39	Yamil Moncau:	Replying to "porq no hay alguno q..."
+
+si el ultimo
+03:32:48	Facundo López Ordoqui:	Replying to "porq no hay alguno q..."
+
+Eso
+03:32:58	Facundo López Ordoqui:	Replying to "porq no hay alguno q..."
+
+El container-fluid ocupa el 100%
+03:33:03	Yamil Moncau:	Replying to "porq no hay alguno q..."
+
+.conteiner-fluid
+03:33:32	Cecilia Lozano:	y cómo personalizás el CSS?
+03:33:38	Mariano Miranovich:	Replying to "porq no hay alguno q..."
+
+a ok
+03:34:06	Juan Maldini:	Para usar boostrap sin internet necesitamos tenerlo descargado, no con los links, cierto?
+03:34:07	Cecilia Lozano:	si
+03:34:11	Yamil Moncau:	y usas id para pisarlas?
+03:34:31	Facundo López Ordoqui:	Replying to "y usas id para pisar..."
+
+Creo que se usa !important, si mal no me equivoco
+03:34:37	Brian Gonzales Vidaurre:	podemos asignar otras clases ?
+03:35:08	Facundo López Ordoqui:	Replying to "y usas id para pisar..."
+
+@[Tutor] Martín Aguilar
+03:35:09	[Tutor] Martín Aguilar:	Si pegas un bloque de código y queres modificarlo, debes identificar la etiqueta que tiene ese estilo y modificarlo. O si lo agregar, debes incorporar la clase necesaria.
+03:35:18	Dario Sosa:	Consulta... pueden convivir 2 archivos css en nuestro proyecto? Eso no lo entendi bien....
+03:35:59	[Tutor] Martín Aguilar:	Replying to "y usas id para pisar..."
+
+A mi criterio, si lo utilizas estas haciendo algo incorrecto.
+
+Suele pasar cuando trabajas en equipo y se trabaja con malas practicas
+03:36:12	[Tutor] Martín Aguilar:	Replying to "y usas id para pisar..."
+
+En otras palabras se provoca la deuda técnica
+03:36:17	Facundo López Ordoqui:	Reacted to "A mi criterio, si lo..." with 👍
+03:37:17	Cecilia Lozano:	se puede combinar Bootstrap con Tailwind?
+03:37:19	[Tutor] Martín Aguilar:	Claro el id debe ser situaciones y el importan! debe evitarse
+03:37:32	Facundo López Ordoqui:	Replying to "y usas id para pisar..."
+
+Joya. Mil gracias!
+03:38:17	Brian Gonzales Vidaurre:	Replying to "y usas id para pisar..."
+
+ podemos manipular cualquiera de las propiedades de la clases de Bootstrap en nuestro css o son limitados?
+03:38:22	[Tutor] Martín Aguilar:	Replying to "Consulta... pueden c..."
+
+Si, y como dice el profe… Seria una mala practica.
+03:38:43	[Tutor] Martín Aguilar:	Replying to "Consulta... pueden c..."
+
+Con el con podes utilizarlo únicamente en cada archivo
+03:39:10	Dario Sosa:	Replying to "Consulta... pueden c..."
+
+Si yo ya tengo mis estilos y por ejemplo quiero agregar un dropdown de bootstrap... eso se puede?
+03:39:57	[Tutor] Martín Aguilar:	Replying to "Consulta... pueden c..."
+
+Si, eso si
+03:40:08	Agostina Lizzi:	Reacted to "Si, eso si" with 👍
+03:40:09	[Tutor] Martín Aguilar:	Replying to "Consulta... pueden c..."
+
+Css nativo con framework
+03:40:35	Dario Sosa:	Replying to "Consulta... pueden c..."
+
+Bien... Entonces ahi declaro 2 link en el head, no?
+03:40:59	[Tutor] Martín Aguilar:	Replying to "y usas id para pisar..."
+
+Si, ahora vamos a ver los componentes y como leer la clase para modificarla en caso de necesitarlo
+03:41:01	Daniela Pignoni:	Se está grabando la clase?
+03:41:18	Brian Gonzales Vidaurre:	podemos manipular cualquiera de las propiedades de la clases de Bootstrap en nuestro css o son limitados?
+03:41:20	[Tutor] Martín Aguilar:	Replying to "Consulta... pueden c..."
+
+Claro, el nativo y el CDN
+03:41:20	Daniela Pignoni:	genial!
+03:41:29	Dario Sosa:	Replying to "Consulta... pueden c..."
+
+Excelente. Gracias Martin!
+03:42:01	[Tutor] Martín Aguilar:	Replying to "se puede combinar Bo..."
+
+Seria útil? Ya tenes un framework… Nos complicaríamos un poco
+03:43:07	[Tutor] Martín Aguilar:	O incluso ver la documentación
+03:45:56	[Tutor] Martín Aguilar:	Replying to "Se está grabando la ..."
+
+Si, veo que si
+03:47:50	Facundo López Ordoqui:	Sep
+03:47:51	Julio Moreno:	si
+03:47:53	Brian Gonzales Vidaurre:	que pasa si no pongo row?
+03:48:14	Brian Gonzales Vidaurre:	si
+03:48:43	Mariano Miranovich:	es como si tuviera todo resumido
+03:49:24	Brian Gonzales Vidaurre:	el css vacio te quedaria
+03:49:45	[Tutor] Martín Aguilar:	Replying to "es como si tuviera t..."
+
+Esta todo listo para servir, solo tenemos que llamarlo 😄
+03:50:26	Julio Moreno:	y si aplicas esos col, se puede ver los grid en el inspeccionar ?
+03:50:27	[Tutor] Martín Aguilar:	Ok genial
+03:51:24	[Tutor] Martín Aguilar:	Replying to "y si aplicas esos co..."
+
+Trabaja con ambos, flex y grid. 
+
+Al inspeccionar vas a ver que esta utilizando
+03:51:29	[Tutor] Martín Aguilar:	Reacted to "y si aplicas esos co..." with 👍🏽
+03:52:02	Daniela Pignoni:	si
+03:52:27	Mariano Miranovich:	es como hacer un grid dentro de otro
+03:52:37	Brian Gonzales Vidaurre:	se puede romper la pagina si los elementos son grandes o se adapta todo?
+03:52:56	Brian Gonzales Vidaurre:	si
+03:54:01	Facundo López Ordoqui:	Si tuvieses que asignarle columnas al row de "col -3 row", seria escribir "col -3 row -n" no?
+03:54:02	Mariano Miranovich:	si se entiende, después es cuestión de practicar
+03:55:05	[Tutor] Martín Aguilar:	Replying to "Si tuvieses que asig..."
+
+No entendi tu pregunta, Facu
+03:55:13	[Tutor] Martín Aguilar:	Reacted to "si se entiende, desp..." with ✨
+03:56:03	Facundo López Ordoqui:	Replying to "Si tuvieses que asig..."
+
+Que si quiero que una row ocupe 5 columnas, en vez de 4, la declaración seria igual como con el col: "col -3 row -5", no?
+03:56:35	[Tutor] Martín Aguilar:	Replying to "Si tuvieses que asig..."
+
+Claro, col-5
+03:56:45	[Tutor] Martín Aguilar:	En lugar de col-3
+03:57:12	[Tutor] Martín Aguilar:	Replying to "Si tuvieses que asig..."
+
+[propiedad]-[valor]
+03:57:25	Facundo López Ordoqui:	Replying to "Si tuvieses que asig..."
+
+Pero yo hablo de cambiar el row de "col-3 row"
+03:57:39	Mariano Miranovich:	en una linea de código sea hace responsive
+03:57:44	Mariano Miranovich:	buenisimo
+03:58:05	[Tutor] Martín Aguilar:	Replying to "Si tuvieses que asig..."
+
+En media query decís?
+03:58:14	[Tutor] Martín Aguilar:	Replying to "Si tuvieses que asig..."
+
+Con remplazarlo es suficiente
+03:58:20	Facundo López Ordoqui:	Reacted to "Con remplazarlo es s..." with 👍
+03:58:25	Facundo López Ordoqui:	Replying to "Si tuvieses que asig..."
+
+Listo. Gracias Martin
+03:59:12	[Tutor] Martín Aguilar:	Replying to "Si tuvieses que asig..."
+
+Ok, si no quedo claro escribime nuevamente
+04:00:03	Facundo López Ordoqui:	Replying to "Si tuvieses que asig..."
+
+Clarito como el agua 😄
+04:00:10	[Tutor] Martín Aguilar:	Reacted to "Clarito como el agua..." with 👍🏽
+04:02:00	Facundo López Ordoqui:	Perdon. Me perdi lo de la class "col-sm-12 col-md-4 col-lg-2". Que era lo que determinaba esto?
+04:02:29	Brian Gonzales Vidaurre:	si ponemos al logo 6 columnas, al nav 6 columnas y al ultimo elemento 12 columnas, tendríamos 2 filas?
+04:02:57	[Tutor] Martín Aguilar:	Replying to "Perdon. Me perdi lo ..."
+
+La cantidad de columnas que el elemento utiliza.
+04:03:03	[Tutor] Martín Aguilar:	Replying to "Perdon. Me perdi lo ..."
+
+El maximo es 12
+04:03:25	Facundo López Ordoqui:	Replying to "Perdon. Me perdi lo ..."
+
+md y lg a que refieren?
+04:03:45	[Tutor] Martín Aguilar:	Replying to "Perdon. Me perdi lo ..."
+
+Col-md-4 dice que en la medida de md(…px) va a ocupar 4 columnas
+04:04:00	[Tutor] Martín Aguilar:	Replying to "Perdon. Me perdi lo ..."
+
+Indica los breakpoints
+04:04:06	Facundo López Ordoqui:	Replying to "Perdon. Me perdi lo ..."
+
+aahhh listo listo
+04:04:13	[Tutor] Martín Aguilar:	Reacted to "aahhh listo listo" with 👍🏽
+04:05:12	[Tutor] Martín Aguilar:	Replying to "si ponemos a logo 6 ..."
+
+Claro, se rompería de alguna manera. No estoy seguro de que salte a otra fila
+04:05:48	[Tutor] Martín Aguilar:	Replying to "si ponemos al logo 6..."
+
+Superaría el 100% de la pantalla eso si
+04:06:16	Federico Pauza:	sisi
+04:06:23	Brian Gonzales Vidaurre:	Replying to "si ponemos al logo 6..."
+
+@[Tutor] Martín Aguilar decía en caso que quisiera modificar las filas
+04:07:15	Brian Gonzales Vidaurre:	Reacted to "Superaría el 100% de..." with 👍
+04:07:16	[Tutor] Martín Aguilar:	Replying to "si ponemos al logo 6..."
+
+Claro, si lo queres modificar remplazas la clase con otro valor
+04:07:29	[Tutor] Martín Aguilar:	Replying to "si ponemos al logo 6..."
+
+Recorda que es [propiedad]-[valor]
+04:07:41	Facundo López Ordoqui:	Si hace click, es Rasti
+04:07:41	[Tutor] Martín Aguilar:	Replying to "si ponemos al logo 6..."
+
+Para un @media por ejemplo
+04:08:26	Brian Gonzales Vidaurre:	Reacted to "Recorda que es [prop..." with 👍
+04:09:27	Julio Moreno:	y si en caso no quisiéramos usar esos valores desde la clase, nosotros podríamos hacerlo directamente desde nuestro propio css no ?
+04:09:51	[Tutor] Martín Aguilar:	Replying to "y si en caso no quis..."
+
+Si, pueden convivir
+04:10:03	[Tutor] Martín Aguilar:	Replying to "y si en caso no quis..."
+
+De igual manera para la entrega se pide que se trabaje todo con el framework
+04:10:12	[Tutor] Martín Aguilar:	Replying to "y si en caso no quis..."
+
+Luego van a ir trabajando con lo que les resulte mejor
+04:10:12	Julio Moreno:	Replying to "y si en caso no quis..."
+
+@[Tutor] Martín Aguilar perfecto !
+04:10:17	Julio Moreno:	Reacted to "Luego van a ir traba..." with 👍
+04:12:27	Julio Moreno:	si perfecto
+04:12:29	Yamil Moncau:	sii
+04:12:40	Federico Pauza:	🤩
+04:16:11	Julio Moreno:	😍
+04:16:17	Facundo López Ordoqui:	😇
+04:16:18	Julio Moreno:	opaaaa !!!
+04:16:29	Julio Moreno:	esta buenisimo
+04:16:32	Ignacio Platero:	yy lo lindo es programar
+04:16:51	[Tutor] Martín Aguilar:	No es magia, es código 😄
+04:17:33	Mariano Miranovich:	y  ese componente lo puedo estilar tambien
+04:17:37	Brian Gonzales Vidaurre:	se puede ver que propiedades del css se uso en le menú de bootstraps?
+04:17:47	[Tutor] Martín Aguilar:	Replying to "y  ese componente lo..."
+
+Si, Mariano
+04:18:05	Mariano Miranovich:	Replying to "y  ese componente lo..."
+
+gracias
+04:18:31	[Tutor] Martín Aguilar:	Replying to "se puede ver que pro..."
+
+Si, podes leer los atributos
+04:18:51	Brian Gonzales Vidaurre:	dale gracias
+04:19:18	[Tutor] Martín Aguilar:	Replying to "se puede ver que pro..."
+
+Al copiar y pegar, recomiendo analizarlo si lo van a modificar
+04:20:23	Brian Gonzales Vidaurre:	Replying to "se puede ver que pro..."
+
+bueno
+04:27:43	Brian Gonzales Vidaurre:	puede explicar de vuelta? si usamos varios carruseles cambiamos el id pero eso no afectaria al css de bootstraps
+04:29:08	Yamil Moncau:	profe si pones weigh auto no funciona como object contain?
+04:29:36	Yamil Moncau:	si
+04:29:53	Yamil Moncau:	ahh
+04:30:13	[Tutor] Martín Aguilar:	Replying to "puede explicar de vu..."
+
+Varios carruseles, te referís a tenerlos en diferentes secciones?
+04:31:04	Brian Gonzales Vidaurre:	Replying to "puede explicar de vu..."
+
+@[Tutor] Martín Aguilar el profe dijo que hay que cambiar el id si tenemos varios carruseles o entendí mal
+04:31:07	Facundo López Ordoqui:	Si si
+04:31:11	Julio Moreno:	super claro
+04:31:23	Sebastian Moran:	si
+04:31:24	Federico Pauza:	sisi
+04:31:58	Julio Moreno:	🤯
+04:32:56	[Tutor] Martín Aguilar:	Replying to "puede explicar de vu..."
+
+No veo necesario modificarlo, fíjate en que situaciones necesitas el id
+04:34:02	Yamil Moncau:	as bajo la manga...
+04:34:08	[Tutor] Martín Aguilar:	Reacted to "as bajo la manga..." with 😄
+04:34:08	Julio Moreno:	aguante Bootstrap hahahaha
+04:35:33	Brian Gonzales Vidaurre:	Reacted to "No veo necesario mod..." with 👍
+04:35:38	Julio Moreno:	todo claro profe
+04:36:14	Yamil Moncau:	si no es obligación mejor
+04:36:45	Yamil Moncau:	no quiero ensuciar mi proyecto con Bootstrap jajaaj
+04:40:35	[Tutor] Martín Aguilar:	Importante! 
+
+﻿﻿﻿HTML MAQUETADOS
+﻿﻿﻿que esos HIML ya tenga su CSS. (flexbox- grids - bootstrap) 
+Responsive, 2htmls sean full responsive. (desktop Tablet mobile)
+
+
+todo tiene que ser entregado a través de GitHub
+
+(CNO SE ACEPTAN SITIOS POR ZIP POR DRIVE. D)
+
+Que links tienen que presentar:
+
+https://github.com/cardenasmaximiliano/git-carpeta
+
+Acá  deje mi entrega
+Acá dejo el link del deploy
+
+https://cardenasmaximilfano.github.to/eit-carpeta/
+
+Revisar
+
+1- imagenes
+2- Los links de la barra de navegación
+3- El links css
+4-Revisar el responsive.
+04:41:00	Yamil Moncau:	sii
