@@ -4,6 +4,8 @@
     box-sizing: border-box;
 }
 
+/* Index Style */
+
 .gridN{
     display: flex;
     height: 200px;
@@ -49,7 +51,7 @@ h1{
     display: grid;  
     padding-top: 40px;
     grid-template-columns: repeat(11,1fr);
-    grid-template-rows: repeat(2    ,1fr);
+    grid-template-rows: repeat(2,1fr);
     padding-top: 100px;
     gap: 20px;
 }
@@ -231,14 +233,14 @@ h1{
 }
 /* destacados Styles */
 
-/* Grid */
+/* Grid Index*/
 
 .gridDestM{
     display: grid;
     grid-template-columns: repeat(6,1fr);
-    grid-template-rows: repeat(20,1fr);
+    grid-template-rows: repeat(18,1fr);
     width: 100%;
-    height: 100%;
+    height: 1200px;
 }
 
 /* Grid */
@@ -254,7 +256,7 @@ h1{
     width: 900px;
     height: 40px; 
     grid-column: 3 / 5;
-    grid-row: 2 / 3;
+    grid-row: 4 / 6;
 }
 
 .destBan1 img{
@@ -282,17 +284,19 @@ ul button{
 
 .destBox2{
     grid-column: 3 / 5;
-    grid-row: 3 / 4;
+    grid-row: 9 / 11;
     width: 900px;
     height: 100%;
 }
 
 .destBox3{
     grid-column: 3 / 5;
-    grid-row: 4 / 5;
+    grid-row: 14 / 16;
     width: 900px;
     height: 100%;
 }
+
+
 
 /* Style Hardware*/
 
@@ -439,6 +443,141 @@ h2{
     width: 1440px;
     height: 300px;
 }
+
+/* Media Q */
+@media(max-width:768px){
+    .gridN{
+        display: flex;
+        width: 100%;
+        height: 100%;
+    }
+    
+    .gridN img{
+        width: 768px;
+        height: 80px;
+    
+    }
+
+    .hardGrid{
+        display: grid;
+        grid-template-columns: repeat(8,1fr);
+        grid-template-rows: repeat(35,1fr);
+        width: 768px;
+        height: 1200px;
+    }
+
+    h2{
+        grid-column: 2 / 4;
+        grid-row: 3 / 4;
+        padding-bottom: 120px;
+        width: 500px;
+        padding-top: 40px;
+    }
+    
+    .cabin{
+        grid-column: 2 / 3;
+        grid-row: 5 / 7;
+        width: 100%;
+    }
+    
+    .cabin img, .imagB img, .imagY img, .imagJ img{
+        width: 200px;
+        padding-left: 20px;
+        grid-column: 2 / 5;
+    }
+    
+    .cabinText{
+        width: 400px;
+        height: 300px;
+        grid-column: 3 / 5;
+        grid-row: 6 / 10;
+        border: 1px solid cornsilk;
+        border-radius: 10px;
+    }
+    
+    .cabinInst{
+        width: 100%;
+        grid-column: 2 / 3;
+        grid-row: 7 / 10;
+    }
+    
+    .cabinInst img{
+        width: 0px;
+    }
+    
+    .imagB{
+        grid-row: 17 / 20;
+    }
+    
+    .hBoxText, .hBoxText2, .hBoxText3{
+        width: 500px;
+        height: 170px;
+        grid-column: 2 / 6;
+        margin-left: 220px;
+
+    }
+    
+    
+    .hBoxText{
+        grid-row: 16 / 18;
+        border: 1px solid cornsilk;
+        padding-right: 20px;
+        border-radius: 10px;    
+    }
+    
+    
+    .imagY{
+        grid-row: 21 / 24;
+    }
+ 
+    
+    .hBoxText2{
+        grid-row: 21 / 23;
+        border: 1px solid cornsilk;
+        border-radius: 10px;
+    }
+    
+    .imagJ{
+        grid-row: 26 / 28;
+    }
+    
+    .hBoxText3{
+        grid-row: 26 / 28;
+        border: 1px solid cornsilk;
+        padding-right: 20px;
+        border-radius: 10px;
+    }
+    
+    .plugIcon img{
+        width: 50px;
+    }
+    
+    .usbIcon img{
+        width: 50px;
+    }
+    
+    /* Footerspace */
+    
+    .footGridH{
+        display: grid;
+        grid-template-columns: repeat(8,1fr);
+        grid-template-rows: repeat(3,1fr);
+    }
+    
+    .footAdv{
+        grid-column: 3 / 7;
+        grid-row: 2 / 3;
+        width: 600px;
+        border: 1px solid rgb(232, 19, 19);
+    }
+    
+    .footAdv ul li{
+        width: 600px;
+    }
+
+}
+
+/* Fin de Media Q */
 
 .carGrid h3{
     width: 900px;
